@@ -1,2 +1,2 @@
 # DIDemo
-Demo for Dependency Injection in .NET Core
+Demo for Dependency Injection in .NET Core Console Application
